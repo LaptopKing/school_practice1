@@ -101,10 +101,10 @@ namespace gyakorlo_feladat
         // Displaying the lowest and the largest number in the dataset
         static void Negyedik_feladat()
         {
-            int min = ertekek[0];
-            int max = ertekek[0];
+            double min = ertekek[0];
+            double max = ertekek[0];
 
-            for (int i = 0; ertekek.Count(); i++)
+            for (int i = 0; i < ertekek.Count(); i++)
             {
                 if (min > ertekek[i])
                 {
@@ -124,7 +124,7 @@ namespace gyakorlo_feladat
         {
             double ossz = 0;
 
-            for (int i = 0; ertekek.Count(); i++)
+            for (int i = 0; i < ertekek.Count(); i++)
             {
                 ossz += ertekek[i];
             }
@@ -139,7 +139,7 @@ namespace gyakorlo_feladat
         {
             int darab = 0;
 
-            for (int i = 0; ertekek.Count(); i++)
+            for (int i = 0; i < ertekek.Count(); i++)
             {
                 if (ertekek[i] > atlag)
                 {
