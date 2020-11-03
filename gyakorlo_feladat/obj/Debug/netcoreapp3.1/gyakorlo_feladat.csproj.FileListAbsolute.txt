@@ -1,0 +1,13 @@
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/bin/Debug/netcoreapp3.1/gyakorlo_feladat
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/bin/Debug/netcoreapp3.1/gyakorlo_feladat.deps.json
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/bin/Debug/netcoreapp3.1/gyakorlo_feladat.runtimeconfig.json
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/bin/Debug/netcoreapp3.1/gyakorlo_feladat.runtimeconfig.dev.json
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/bin/Debug/netcoreapp3.1/gyakorlo_feladat.dll
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/bin/Debug/netcoreapp3.1/gyakorlo_feladat.pdb
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/obj/Debug/netcoreapp3.1/gyakorlo_feladat.csprojAssemblyReference.cache
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/obj/Debug/netcoreapp3.1/gyakorlo_feladat.AssemblyInfoInputs.cache
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/obj/Debug/netcoreapp3.1/gyakorlo_feladat.AssemblyInfo.cs
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/obj/Debug/netcoreapp3.1/gyakorlo_feladat.csproj.CoreCompileInputs.cache
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/obj/Debug/netcoreapp3.1/gyakorlo_feladat.dll
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/obj/Debug/netcoreapp3.1/gyakorlo_feladat.pdb
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/gyakorlo_feladat/obj/Debug/netcoreapp3.1/gyakorlo_feladat.genruntimeconfig.cache

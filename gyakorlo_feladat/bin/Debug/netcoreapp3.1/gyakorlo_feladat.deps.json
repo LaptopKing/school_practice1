@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gyakorlo_feladat/1.0.0": {
+        "runtime": {
+          "gyakorlo_feladat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gyakorlo_feladat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
